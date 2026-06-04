@@ -10,7 +10,7 @@
 
 ## ⚡ About Me
 
-Software Engineer with **11+ years of self-taught experience** and a 4th-year **Information Systems Engineering** student at UTN FRBA (**3.7 GPA — 8.94/10**). Specialized in backend development, microservices architecture, and low-level systems. Combining deep technical mastery with leadership capabilities and **C2 English proficiency** to engineer high-performance, scalable solutions.
+Software Engineer with **experience since age 11** and a 4th-year **Information Systems Engineering** student at UTN FRBA (**3.7 GPA - 8.94/10**). Specialized in backend development, microservices architecture, and low-level systems. Combining deep technical mastery with leadership capabilities and **C2 English proficiency** to engineer high-performance, scalable solutions.
 
 ## 🛠️ Tech Stack
 
