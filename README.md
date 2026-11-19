@@ -16,7 +16,7 @@ Software Engineer at **WirData** · Information Systems Engineering student at *
 
 | Project | What it is | Stack |
 |---|---|---|
-| [DonaTrack](https://github.com/tsorren/DonaTrack-TP-DDS) · 2026 | 5 event-driven microservices under Clean Architecture, with layer rules enforced by ArchUnit, with RabbitMQ outbox, retries and idempotency. Team of 9; owner of the inter-service contracts. | Java 21, Spring Boot 4, RabbitMQ, PostgreSQL, Keycloak |
+| [DonaTrack](https://github.com/tsorren/DonaTrack-TP-DDS) · 2026 | 5 event-driven microservices under Clean Architecture (layer rules enforced by ArchUnit), with RabbitMQ outbox, retries and idempotency. Team of 9; owner of the inter-service contracts. | Java 21, Spring Boot 4, RabbitMQ, PostgreSQL, Keycloak |
 | [Metamapa](https://github.com/tsorren/Metamapa-TP-DDSI) · 2025 | 5 microservices (aggregator, statistics, and static, dynamic and proxy data sources), with RBAC, a state machine to audit geolocated reports and server-side rendering. | Java, Spring Boot, Spring Security, MySQL, Docker |
 | [Distributed OS Simulation](https://github.com/tsorren/OS-Simulation-TP-SSOO) · 2025 | Distributed UNIX OS simulator: FIFO/SJF/SRT scheduling, paging with SWAP and concurrent communication over HTTP. | Go, Linux |
 | [Advanced Programming Techniques](https://github.com/tsorren/Paradigmas-Avanzados-TP-TADP) · 2025 | Runtime Design-by-Contract framework through Ruby metaprogramming, and an immutable tournament engine in Scala. | Ruby, Scala |
